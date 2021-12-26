@@ -7,8 +7,8 @@ from setuptools import setup, Extension
 setup(
     author="crazy",
     name='vulstest',
-    version='v0.0.1',
-    download_url='https://github.com/crazyfortests/vulstest/archive/refs/tags/v0.0.1.tar.gz',
+    version='v0.0.2',
+    download_url='https://github.com/crazyfortests/vulstest/archive/refs/tags/v0.0.2.tar.gz',
     python_requires=">=3.2",
     classifiers=[
         # Trove classifiers
